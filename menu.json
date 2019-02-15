@@ -1,0 +1,16 @@
+{
+  "menuList": [
+    {
+      "id" : 1,
+      "menuName" : "My Menu" 
+    },
+    {
+      "id" : 2,
+      "menuName" : "TA/DA" 
+    },
+    {
+      "id" : 3,
+      "menuName" : "Support" 
+    },
+  ]
+}
